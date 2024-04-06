@@ -1,0 +1,47 @@
+/* Background Image Styling */
+body {
+    background-image: url('pictures-of-pizza-23-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+
+/* Section Styling */
+.section
+ {
+    background-color: rgba(255, 255, 255, 0.5) ;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+
+body
+   {
+     text-align:center;
+     font-family: Georgia;
+     
+    }
+
+    h1{
+    color:rgb(168, 121, 225);
+    text-align:center;
+    text-shadow:rgb(187, 233, 113);
+    text-size-adjust: 150;
+    font-family: ;
+    }
+    
+    h2{
+    text-size-adjust: 80;
+    color:rgb(187, 233, 113);
+    }
+
+    button[type="reset"] {
+        margin-right: 10px;
+    }
+    
+    button[type="submit"] {
+        margin-left: 50px;
+    }
